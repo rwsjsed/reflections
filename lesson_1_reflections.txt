@@ -1,0 +1,21 @@
+I much prefer sublimes method of color coding the diff and showing line numbers to the output of the windows FC command or the mac Diff command.  
+
+They could make it more clear which file was the "result" file, and it would be nice to be able to switch it after the diff in case you selected the file in reverse of the intended order
+
+can see the history of changes and figure out where things might have gone wrong if there was a bug based on what code has chagned.
+
+con is that you could lose important non-commited information. pros is there are not to many commites to look through.  better would be to continuously save every action but to be able to mark certain points as "commits" with a special note to get the beast of both worlds.
+
+In programs file boundries are often arbitrary and done for oginzational reasons so saving a file and multiple files often has the same meaning.  Documents usually represent seperate non related items.
+
+the git files whent in the opposite time from what i expected,, it was latest first.. which does make some semse if the file does not print out to the end.
+
+
+it makes it easer to figure out when the issue was introduced and isolate the changes that could have caused the bug
+
+I want to use git in ways that will be similar to future work projects... java and python programs.
+
+
+
+
+
